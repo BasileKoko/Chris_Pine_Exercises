@@ -1,5 +1,5 @@
-# ChrisPine_chapter1-exercises
-# https://pine.fm/LearnToProgram/chap_01.html
+## ChrisPine_chapter1-exercises
+## https://pine.fm/LearnToProgram/chap_01.html
 
 #How many hours are in a year?
 # Our hypothesis is that a year is made of 365 days and a day is made of 24 hours.
